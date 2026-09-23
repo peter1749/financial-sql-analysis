@@ -6,9 +6,7 @@ This project analyzes a banking dataset to evaluate:
 - Customer risk
 - Revenue generation
 - Customer behavior
-## SQL Queries
-Below is screenshot of the SQL queries used to analyze the banking dataset, including revenue analysis, loan performance, customer risk classification, and customer segmentation.
-![SQL Queries](SQL_QUERIES.png)
+![SQL Queries](sql-queries.png)
 
  Objectives
 - Calculate total bank revenue
