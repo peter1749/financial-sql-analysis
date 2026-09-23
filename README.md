@@ -90,7 +90,12 @@ The dataset contains banking transaction and loan-related information, including
 - Loan data (loan amount, interest rate, repayment, default status)  
 - Transaction data (deposits, withdrawals, transfers)  
 - Financial indicators (monthly income, existing debt)  
-- Time data (transaction date)  
+- Time data (transaction date)
+
+  ## SQL Queries
+
+
+![SQL Queries](SQL_QUERIES.png)
 
 Conclusion
 This project demonstrates how SQL can be used to analyze banking data, assess risk, and generate actionable business insights. It reflects real-world financial analysis scenarios relevant to commercial banking.
